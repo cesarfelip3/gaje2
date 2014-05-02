@@ -1,0 +1,16 @@
+Develop
+=========
+
+
+Todo
+======
+
+1. from template to create UI - introduction - login ==> done
+2. create local database ==> done
+3. added FB SDK ==> done
+4. added FB Login ==> basic authentication & authorization ==> done
+5. get FB user info ==> firstname, id, fullname, email, profile icon link ==> done
+
+6. refine UI & network logic 
+
+
